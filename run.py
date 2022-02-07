@@ -72,7 +72,7 @@ def tod():
         print '\r %s[%s+%s] menghapus token %s'%(N,M,N,x),
         sys.stdout.flush()
         time.sleep(1)
-def menu_dev():
+
 	logo()
         print(" [] Email       : farikhaputra0307@gmail.com")
 	print(" [] Bergabung   : %s"%(tgl))
@@ -81,7 +81,7 @@ def menu_dev():
 	print(" [] Status      : %sPremium%s"% (H,N))
 	print(" [] Kadaluwarsa : lifetime")
 	print(" [] Author      : putraexzy")
-        print(" []---------------------------------------------")
+        print(" []-------------------------------------------")
 	print(" [] IP User     : %s\n"%(IP))
 
 lo_ngentod = '1714009362122228'
